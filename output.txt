@@ -1,0 +1,1644 @@
+LCS String: ACCGCAGCGCCAATTTACAACGCCGCACCGTAAAAGTGGTTTTACAACCCCCTCCTTGTCCGGTTTATTTCTCTAGTCAGGTACAAAACAATGGTGGGAATACTTTTCTGGACCTAACCACGGATCCGGGTTGACAAGAGTCGGCCCGGAGGGAACGTGAGGTTAGTCAATTAAAGTTCAATGTGTGCGAACGGATTTTGAGGGTACTATTAACAAACCGGCTAACCTATGCCCCTACTTGCCGGCCCAGTGAACGATACTTAATTTGCGCTCACGGTCAGAAATAGAGTAGTCTTTCTGCGGTAGAAATTACCGTCTTCCAGGCAAATTTTGAGATCAATGAGGACAGGTAAGCTCACGTCATCAACCCCCGCAAAATTGGAGTGTTTGGACTGAGATAAGCACCTTGAAACGGGCCTTTGTGGGTCCACACAGTTTCTGTAAGCTGTTCCACTACGGATTTTGATATCCCTGAAGAGTACCACCACGCCGGGCGGACCCGGTACTACTGCCCCCCCCTTTGGGCGCCGTAATCAAGTGATCGGGAAACTAAATGTCCGCAGAAAGACTAAA
+Length of LCS: 573
+Enter desired string length for iterative version: 
+1,0.011
+LCS length:1
+2,0.004
+LCS length:2
+3,0.003
+LCS length:3
+4,0.003
+LCS length:3
+5,0.003
+LCS length:4
+6,0.004
+LCS length:5
+7,0.004
+LCS length:5
+8,0.006
+LCS length:5
+9,0.006
+LCS length:6
+10,0.007
+LCS length:7
+11,0.008
+LCS length:8
+12,0.008
+LCS length:9
+13,0.01
+LCS length:9
+14,0.012
+LCS length:10
+15,0.021
+LCS length:10
+16,0.017
+LCS length:10
+17,0.016
+LCS length:10
+18,0.016
+LCS length:10
+19,0.019
+LCS length:11
+20,0.019
+LCS length:11
+21,0.021
+LCS length:12
+22,0.023
+LCS length:12
+23,0.024
+LCS length:13
+24,0.028
+LCS length:14
+25,0.029
+LCS length:15
+26,0.03
+LCS length:15
+27,0.034
+LCS length:16
+28,0.034
+LCS length:17
+29,0.037
+LCS length:17
+30,0.04
+LCS length:18
+31,0.043
+LCS length:18
+32,0.046
+LCS length:19
+33,0.046
+LCS length:20
+34,0.049
+LCS length:20
+35,0.052
+LCS length:21
+36,0.055
+LCS length:21
+37,0.06
+LCS length:22
+38,0.06
+LCS length:22
+39,0.064
+LCS length:23
+40,0.068
+LCS length:24
+41,0.071
+LCS length:25
+42,0.074
+LCS length:25
+43,0.077
+LCS length:25
+44,0.079
+LCS length:26
+45,0.084
+LCS length:26
+46,0.088
+LCS length:27
+47,0.092
+LCS length:28
+48,0.096
+LCS length:29
+49,0.1
+LCS length:29
+50,0.105
+LCS length:30
+51,0.108
+LCS length:31
+52,0.114
+LCS length:31
+53,0.119
+LCS length:31
+54,0.121
+LCS length:31
+55,0.128
+LCS length:32
+56,0.134
+LCS length:33
+57,0.137
+LCS length:34
+58,0.142
+LCS length:35
+59,0.147
+LCS length:35
+60,0.151
+LCS length:35
+61,0.165
+LCS length:35
+62,0.163
+LCS length:36
+63,0.167
+LCS length:36
+64,0.192
+LCS length:37
+65,0.179
+LCS length:38
+66,0.188
+LCS length:39
+67,0.19
+LCS length:40
+68,0.197
+LCS length:41
+69,0.2
+LCS length:42
+70,0.204
+LCS length:43
+71,0.212
+LCS length:43
+72,0.221
+LCS length:44
+73,0.226
+LCS length:44
+74,0.231
+LCS length:44
+75,0.303
+LCS length:45
+76,0.373
+LCS length:45
+77,0.251
+LCS length:46
+78,0.255
+LCS length:46
+79,0.262
+LCS length:47
+80,0.24
+LCS length:47
+81,0.135
+LCS length:48
+82,0.138
+LCS length:49
+83,0.14
+LCS length:50
+84,0.145
+LCS length:51
+85,0.147
+LCS length:51
+86,0.15
+LCS length:51
+87,0.154
+LCS length:52
+88,0.158
+LCS length:52
+89,0.162
+LCS length:53
+90,0.164
+LCS length:53
+91,0.168
+LCS length:54
+92,0.172
+LCS length:54
+93,0.176
+LCS length:55
+94,0.178
+LCS length:55
+95,0.183
+LCS length:55
+96,0.187
+LCS length:55
+97,0.191
+LCS length:56
+98,0.195
+LCS length:56
+99,0.197
+LCS length:57
+100,0.203
+LCS length:58
+101,0.206
+LCS length:59
+102,0.21
+LCS length:59
+103,0.223
+LCS length:60
+104,0.221
+LCS length:61
+105,0.222
+LCS length:61
+106,0.226
+LCS length:62
+107,0.231
+LCS length:63
+108,0.236
+LCS length:64
+109,0.241
+LCS length:65
+110,0.244
+LCS length:65
+111,0.253
+LCS length:66
+112,0.253
+LCS length:66
+113,0.259
+LCS length:67
+114,0.264
+LCS length:67
+115,0.269
+LCS length:68
+116,0.326
+LCS length:69
+117,0.306
+LCS length:69
+118,0.325
+LCS length:70
+119,0.318
+LCS length:71
+120,0.333
+LCS length:72
+121,0.33
+LCS length:73
+122,0.334
+LCS length:73
+123,0.341
+LCS length:74
+124,0.35
+LCS length:74
+125,0.284
+LCS length:75
+126,0.2
+LCS length:75
+127,0.204
+LCS length:75
+128,0.214
+LCS length:76
+129,0.211
+LCS length:77
+130,0.211
+LCS length:78
+131,0.217
+LCS length:79
+132,0.228
+LCS length:80
+133,0.258
+LCS length:80
+134,0.241
+LCS length:81
+135,0.247
+LCS length:81
+136,0.245
+LCS length:82
+137,0.267
+LCS length:82
+138,0.266
+LCS length:82
+139,0.264
+LCS length:83
+140,0.265
+LCS length:83
+141,0.358
+LCS length:84
+142,0.27
+LCS length:85
+143,0.272
+LCS length:86
+144,0.285
+LCS length:87
+145,0.278
+LCS length:87
+146,0.281
+LCS length:88
+147,0.295
+LCS length:89
+148,0.331
+LCS length:90
+149,0.292
+LCS length:91
+150,0.307
+LCS length:91
+151,0.309
+LCS length:92
+152,0.291
+LCS length:92
+153,0.302
+LCS length:93
+154,0.328
+LCS length:93
+155,0.35
+LCS length:93
+156,0.338
+LCS length:94
+157,0.334
+LCS length:95
+158,0.349
+LCS length:95
+159,0.349
+LCS length:95
+160,0.366
+LCS length:96
+161,0.363
+LCS length:97
+162,0.373
+LCS length:98
+163,0.375
+LCS length:99
+164,0.357
+LCS length:99
+165,0.365
+LCS length:100
+166,0.348
+LCS length:100
+167,0.361
+LCS length:101
+168,0.358
+LCS length:102
+169,0.369
+LCS length:102
+170,0.367
+LCS length:103
+171,0.425
+LCS length:104
+172,0.393
+LCS length:104
+173,0.397
+LCS length:105
+174,0.404
+LCS length:105
+175,0.393
+LCS length:106
+176,0.399
+LCS length:107
+177,0.398
+LCS length:108
+178,0.412
+LCS length:109
+179,0.412
+LCS length:110
+180,0.411
+LCS length:111
+181,0.477
+LCS length:111
+182,0.444
+LCS length:111
+183,0.462
+LCS length:111
+184,0.432
+LCS length:112
+185,0.441
+LCS length:113
+186,0.459
+LCS length:113
+187,0.45
+LCS length:114
+188,0.45
+LCS length:115
+189,0.503
+LCS length:116
+190,0.496
+LCS length:116
+191,0.486
+LCS length:117
+192,0.492
+LCS length:118
+193,0.471
+LCS length:119
+194,0.486
+LCS length:120
+195,0.488
+LCS length:121
+196,0.49
+LCS length:122
+197,0.513
+LCS length:123
+198,0.503
+LCS length:123
+199,0.513
+LCS length:124
+200,0.514
+LCS length:124
+201,0.512
+LCS length:124
+202,0.525
+LCS length:124
+203,0.533
+LCS length:125
+204,0.529
+LCS length:126
+205,0.56
+LCS length:127
+206,0.547
+LCS length:128
+207,0.559
+LCS length:129
+208,0.556
+LCS length:129
+209,0.555
+LCS length:130
+210,0.563
+LCS length:131
+211,0.562
+LCS length:132
+212,0.583
+LCS length:133
+213,0.58
+LCS length:133
+214,0.577
+LCS length:134
+215,0.598
+LCS length:134
+216,0.598
+LCS length:134
+217,0.597
+LCS length:135
+218,0.6
+LCS length:135
+219,0.716
+LCS length:136
+220,0.65
+LCS length:137
+221,0.638
+LCS length:137
+222,0.626
+LCS length:138
+223,0.624
+LCS length:139
+224,0.649
+LCS length:140
+225,0.658
+LCS length:141
+226,0.647
+LCS length:142
+227,0.65
+LCS length:142
+228,0.652
+LCS length:142
+229,0.664
+LCS length:143
+230,0.669
+LCS length:143
+231,0.683
+LCS length:143
+232,0.679
+LCS length:144
+233,0.683
+LCS length:145
+234,0.693
+LCS length:146
+235,0.697
+LCS length:146
+236,0.706
+LCS length:147
+237,0.72
+LCS length:147
+238,0.737
+LCS length:148
+239,0.721
+LCS length:149
+240,0.782
+LCS length:150
+241,0.759
+LCS length:150
+242,0.772
+LCS length:151
+243,0.751
+LCS length:151
+244,0.752
+LCS length:152
+245,0.76
+LCS length:152
+246,0.765
+LCS length:153
+247,0.779
+LCS length:153
+248,0.778
+LCS length:154
+249,0.783
+LCS length:155
+250,0.79
+LCS length:155
+251,0.811
+LCS length:156
+252,0.81
+LCS length:157
+253,0.806
+LCS length:158
+254,0.812
+LCS length:158
+255,0.822
+LCS length:159
+256,0.826
+LCS length:160
+257,0.839
+LCS length:161
+258,0.84
+LCS length:162
+259,0.844
+LCS length:163
+260,0.853
+LCS length:164
+261,0.919
+LCS length:164
+262,1.075
+LCS length:164
+263,0.949
+LCS length:165
+264,0.879
+LCS length:166
+265,0.89
+LCS length:167
+266,0.898
+LCS length:167
+267,0.9
+LCS length:167
+268,0.907
+LCS length:168
+269,0.911
+LCS length:169
+270,0.928
+LCS length:170
+271,0.925
+LCS length:170
+272,0.936
+LCS length:171
+273,0.937
+LCS length:171
+274,0.964
+LCS length:172
+275,0.968
+LCS length:173
+276,0.959
+LCS length:174
+277,0.969
+LCS length:175
+278,1.164
+LCS length:175
+279,1.148
+LCS length:176
+280,1.004
+LCS length:177
+281,1.001
+LCS length:178
+282,1.032
+LCS length:178
+283,1.087
+LCS length:179
+284,1.012
+LCS length:180
+285,1.026
+LCS length:180
+286,1.08
+LCS length:180
+287,1.089
+LCS length:181
+288,1.049
+LCS length:182
+289,1.051
+LCS length:182
+290,1.065
+LCS length:183
+291,1.07
+LCS length:184
+292,1.095
+LCS length:185
+293,1.576
+LCS length:185
+294,1.134
+LCS length:186
+295,1.099
+LCS length:186
+296,1.105
+LCS length:187
+297,1.119
+LCS length:187
+298,1.116
+LCS length:188
+299,1.127
+LCS length:188
+300,1.14
+LCS length:188
+301,1.162
+LCS length:189
+302,1.145
+LCS length:190
+303,1.155
+LCS length:191
+304,1.167
+LCS length:191
+305,1.172
+LCS length:192
+306,1.193
+LCS length:193
+307,1.201
+LCS length:193
+308,1.192
+LCS length:194
+309,1.204
+LCS length:194
+310,1.236
+LCS length:194
+311,1.22
+LCS length:195
+312,1.227
+LCS length:196
+313,1.232
+LCS length:197
+314,1.248
+LCS length:198
+315,1.255
+LCS length:198
+316,1.252
+LCS length:199
+317,1.269
+LCS length:199
+318,1.29
+LCS length:199
+319,1.33
+LCS length:199
+320,1.299
+LCS length:200
+321,1.298
+LCS length:201
+322,1.304
+LCS length:202
+323,1.318
+LCS length:202
+324,1.32
+LCS length:202
+325,1.331
+LCS length:203
+326,1.344
+LCS length:203
+327,1.351
+LCS length:204
+328,1.437
+LCS length:205
+329,1.458
+LCS length:205
+330,1.563
+LCS length:206
+331,1.472
+LCS length:206
+332,1.399
+LCS length:207
+333,1.398
+LCS length:208
+334,1.412
+LCS length:208
+335,1.41
+LCS length:209
+336,1.427
+LCS length:210
+337,1.437
+LCS length:211
+338,1.446
+LCS length:212
+339,1.452
+LCS length:212
+340,1.463
+LCS length:212
+341,1.535
+LCS length:213
+342,1.481
+LCS length:214
+343,1.495
+LCS length:214
+344,1.496
+LCS length:214
+345,1.506
+LCS length:214
+346,1.507
+LCS length:215
+347,1.513
+LCS length:215
+348,1.538
+LCS length:216
+349,1.539
+LCS length:217
+350,1.553
+LCS length:218
+351,1.745
+LCS length:219
+352,1.648
+LCS length:220
+353,1.58
+LCS length:221
+354,1.582
+LCS length:222
+355,1.6
+LCS length:223
+356,1.603
+LCS length:224
+357,1.609
+LCS length:225
+358,1.626
+LCS length:225
+359,1.631
+LCS length:226
+360,1.646
+LCS length:226
+361,2.022
+LCS length:227
+362,1.659
+LCS length:228
+363,1.66
+LCS length:229
+364,1.675
+LCS length:229
+365,1.69
+LCS length:230
+366,1.693
+LCS length:231
+367,1.708
+LCS length:232
+368,1.711
+LCS length:233
+369,1.718
+LCS length:233
+370,2.145
+LCS length:234
+371,1.742
+LCS length:234
+372,1.766
+LCS length:234
+373,1.76
+LCS length:235
+374,1.778
+LCS length:236
+375,1.783
+LCS length:237
+376,1.799
+LCS length:238
+377,1.796
+LCS length:238
+378,1.847
+LCS length:238
+379,1.82
+LCS length:238
+380,1.838
+LCS length:239
+381,1.833
+LCS length:240
+382,1.845
+LCS length:241
+383,1.866
+LCS length:242
+384,1.864
+LCS length:242
+385,1.883
+LCS length:243
+386,1.892
+LCS length:244
+387,2.018
+LCS length:245
+388,1.907
+LCS length:245
+389,1.922
+LCS length:245
+390,1.994
+LCS length:246
+391,2.128
+LCS length:247
+392,2.101
+LCS length:248
+393,2.06
+LCS length:248
+394,1.995
+LCS length:249
+395,2.058
+LCS length:249
+396,1.983
+LCS length:250
+397,2.002
+LCS length:251
+398,2.003
+LCS length:252
+399,2.027
+LCS length:252
+400,2.023
+LCS length:253
+401,2.046
+LCS length:254
+402,2.104
+LCS length:254
+403,2.11
+LCS length:255
+404,2.073
+LCS length:255
+405,2.086
+LCS length:256
+406,2.097
+LCS length:256
+407,2.097
+LCS length:256
+408,2.123
+LCS length:257
+409,2.139
+LCS length:258
+410,2.144
+LCS length:258
+411,2.139
+LCS length:259
+412,2.162
+LCS length:259
+413,2.169
+LCS length:260
+414,2.182
+LCS length:260
+415,2.185
+LCS length:261
+416,2.286
+LCS length:262
+417,2.573
+LCS length:263
+418,2.327
+LCS length:264
+419,2.353
+LCS length:265
+420,2.346
+LCS length:265
+421,2.369
+LCS length:265
+422,2.378
+LCS length:266
+423,2.682
+LCS length:267
+424,2.459
+LCS length:267
+425,2.456
+LCS length:268
+426,2.42
+LCS length:268
+427,2.432
+LCS length:269
+428,2.443
+LCS length:270
+429,2.667
+LCS length:271
+430,2.606
+LCS length:272
+431,2.559
+LCS length:273
+432,2.58
+LCS length:274
+433,2.499
+LCS length:275
+434,2.578
+LCS length:275
+435,2.612
+LCS length:275
+436,2.69
+LCS length:276
+437,2.647
+LCS length:277
+438,2.598
+LCS length:278
+439,2.597
+LCS length:279
+440,2.696
+LCS length:279
+441,2.717
+LCS length:279
+442,2.678
+LCS length:279
+443,2.666
+LCS length:280
+444,2.71
+LCS length:281
+445,2.763
+LCS length:281
+446,2.74
+LCS length:282
+447,2.756
+LCS length:282
+448,2.805
+LCS length:283
+449,2.726
+LCS length:284
+450,2.769
+LCS length:285
+451,2.742
+LCS length:286
+452,2.759
+LCS length:287
+453,2.876
+LCS length:288
+454,2.802
+LCS length:289
+455,2.84
+LCS length:289
+456,2.807
+LCS length:289
+457,2.821
+LCS length:289
+458,3.086
+LCS length:290
+459,2.857
+LCS length:290
+460,2.844
+LCS length:290
+461,2.898
+LCS length:291
+462,2.89
+LCS length:292
+463,3.013
+LCS length:292
+464,2.959
+LCS length:293
+465,2.75
+LCS length:294
+466,2.752
+LCS length:295
+467,2.774
+LCS length:296
+468,2.782
+LCS length:296
+469,2.895
+LCS length:297
+470,2.808
+LCS length:298
+471,2.819
+LCS length:298
+472,2.839
+LCS length:299
+473,2.837
+LCS length:299
+474,3.013
+LCS length:299
+475,3.074
+LCS length:299
+476,3.032
+LCS length:300
+477,2.882
+LCS length:301
+478,2.903
+LCS length:301
+479,2.979
+LCS length:302
+480,3.248
+LCS length:303
+481,2.935
+LCS length:304
+482,2.947
+LCS length:305
+483,2.961
+LCS length:305
+484,2.976
+LCS length:306
+485,3.342
+LCS length:307
+486,10.133
+LCS length:307
+487,4.747
+LCS length:308
+488,3.874
+LCS length:309
+489,3.703
+LCS length:310
+490,3.158
+LCS length:310
+491,3.133
+LCS length:311
+492,3.427
+LCS length:312
+493,3.165
+LCS length:313
+494,3.347
+LCS length:314
+495,3.106
+LCS length:314
+496,3.26
+LCS length:315
+497,3.261
+LCS length:315
+498,3.132
+LCS length:315
+499,3.167
+LCS length:315
+500,3.169
+LCS length:316
+501,3.206
+LCS length:317
+502,3.197
+LCS length:317
+503,3.205
+LCS length:318
+504,3.223
+LCS length:319
+505,3.24
+LCS length:320
+506,3.243
+LCS length:321
+507,3.253
+LCS length:322
+508,3.255
+LCS length:323
+509,3.286
+LCS length:323
+510,3.301
+LCS length:324
+511,3.376
+LCS length:325
+512,3.331
+LCS length:326
+513,3.34
+LCS length:326
+514,3.34
+LCS length:326
+515,3.362
+LCS length:327
+516,3.466
+LCS length:328
+517,3.393
+LCS length:329
+518,3.406
+LCS length:329
+519,3.415
+LCS length:329
+520,3.642
+LCS length:330
+521,3.47
+LCS length:331
+522,3.504
+LCS length:332
+523,3.657
+LCS length:333
+524,3.561
+LCS length:333
+525,3.879
+LCS length:334
+526,3.593
+LCS length:335
+527,3.527
+LCS length:336
+528,3.535
+LCS length:336
+529,3.86
+LCS length:337
+530,3.608
+LCS length:337
+531,3.572
+LCS length:338
+532,3.582
+LCS length:339
+533,3.626
+LCS length:340
+534,3.627
+LCS length:341
+535,3.641
+LCS length:342
+536,3.647
+LCS length:343
+537,3.756
+LCS length:343
+538,3.68
+LCS length:344
+539,3.683
+LCS length:345
+540,3.794
+LCS length:345
+541,3.718
+LCS length:345
+542,4.143
+LCS length:346
+543,3.751
+LCS length:347
+544,3.76
+LCS length:347
+545,3.768
+LCS length:347
+546,4.139
+LCS length:348
+547,3.801
+LCS length:349
+548,3.811
+LCS length:350
+549,3.824
+LCS length:350
+550,3.872
+LCS length:351
+551,3.858
+LCS length:351
+552,3.861
+LCS length:352
+553,3.883
+LCS length:353
+554,3.989
+LCS length:354
+555,3.915
+LCS length:355
+556,3.924
+LCS length:355
+557,3.933
+LCS length:356
+558,4.326
+LCS length:356
+559,3.983
+LCS length:356
+560,3.983
+LCS length:357
+561,4.052
+LCS length:358
+562,4.206
+LCS length:358
+563,4.036
+LCS length:359
+564,4.03
+LCS length:360
+565,4.092
+LCS length:361
+566,4.095
+LCS length:362
+567,4.088
+LCS length:363
+568,4.102
+LCS length:364
+569,4.126
+LCS length:364
+570,4.125
+LCS length:365
+571,4.142
+LCS length:366
+572,4.148
+LCS length:366
+573,4.19
+LCS length:367
+574,4.185
+LCS length:367
+575,4.198
+LCS length:368
+576,4.209
+LCS length:369
+577,4.255
+LCS length:370
+578,4.239
+LCS length:370
+579,4.258
+LCS length:370
+580,4.663
+LCS length:371
+581,4.285
+LCS length:371
+582,4.3
+LCS length:371
+583,4.313
+LCS length:372
+584,4.638
+LCS length:373
+585,4.347
+LCS length:374
+586,4.353
+LCS length:375
+587,4.455
+LCS length:375
+588,4.409
+LCS length:376
+589,4.401
+LCS length:377
+590,4.412
+LCS length:378
+591,4.606
+LCS length:378
+592,4.454
+LCS length:378
+593,4.455
+LCS length:379
+594,4.756
+LCS length:380
+595,4.546
+LCS length:380
+596,4.504
+LCS length:381
+597,4.521
+LCS length:382
+598,4.871
+LCS length:383
+599,4.718
+LCS length:383
+600,4.572
+LCS length:384
+601,4.709
+LCS length:385
+602,4.603
+LCS length:385
+603,4.611
+LCS length:385
+604,4.866
+LCS length:386
+605,4.971
+LCS length:386
+606,4.673
+LCS length:387
+607,4.683
+LCS length:387
+608,5.124
+LCS length:388
+609,4.721
+LCS length:389
+610,4.727
+LCS length:390
+611,5.084
+LCS length:390
+612,4.76
+LCS length:391
+613,4.771
+LCS length:391
+614,4.908
+LCS length:392
+615,4.884
+LCS length:393
+616,5.025
+LCS length:394
+617,4.858
+LCS length:395
+618,5.086
+LCS length:395
+619,5.237
+LCS length:395
+620,5.133
+LCS length:396
+621,5.255
+LCS length:397
+622,5.248
+LCS length:397
+623,5.014
+LCS length:398
+624,5.043
+LCS length:398
+625,4.965
+LCS length:399
+626,5.323
+LCS length:400
+627,5.034
+LCS length:401
+628,5.002
+LCS length:401
+629,5.3
+LCS length:401
+630,5.196
+LCS length:401
+631,5.145
+LCS length:402
+632,5.318
+LCS length:402
+633,5.267
+LCS length:403
+634,5.157
+LCS length:403
+635,5.415
+LCS length:404
+636,5.159
+LCS length:404
+637,5.146
+LCS length:405
+638,5.197
+LCS length:406
+639,5.174
+LCS length:406
+640,5.197
+LCS length:407
+641,5.555
+LCS length:408
+642,5.268
+LCS length:408
+643,5.326
+LCS length:409
+644,5.555
+LCS length:410
+645,5.273
+LCS length:411
+646,5.299
+LCS length:411
+647,5.683
+LCS length:412
+648,5.326
+LCS length:412
+649,5.342
+LCS length:413
+650,5.667
+LCS length:413
+651,5.382
+LCS length:414
+652,5.393
+LCS length:415
+653,5.595
+LCS length:416
+654,5.426
+LCS length:417
+655,5.449
+LCS length:417
+656,5.569
+LCS length:418
+657,5.797
+LCS length:419
+658,5.567
+LCS length:420
+659,5.51
+LCS length:421
+660,6.06
+LCS length:421
+661,5.84
+LCS length:421
+662,5.676
+LCS length:421
+663,5.708
+LCS length:421
+664,5.662
+LCS length:422
+665,5.623
+LCS length:423
+666,5.634
+LCS length:424
+667,5.761
+LCS length:424
+668,5.731
+LCS length:425
+669,6.048
+LCS length:426
+670,5.709
+LCS length:427
+671,5.721
+LCS length:428
+672,6.062
+LCS length:428
+673,5.78
+LCS length:429
+674,5.775
+LCS length:430
+675,5.886
+LCS length:431
+676,5.82
+LCS length:432
+677,5.954
+LCS length:432
+678,5.854
+LCS length:432
+679,6.007
+LCS length:433
+680,5.987
+LCS length:433
+681,6.061
+LCS length:434
+682,6.063
+LCS length:434
+683,5.926
+LCS length:434
+684,5.955
+LCS length:435
+685,5.981
+LCS length:436
+686,6
+LCS length:436
+687,6.002
+LCS length:436
+688,7.009
+LCS length:437
+689,6.372
+LCS length:437
+690,8.684
+LCS length:438
+691,6.384
+LCS length:439
+692,9.583
+LCS length:440
+693,8.889
+LCS length:441
+694,7.372
+LCS length:441
+695,9.607
+LCS length:442
+696,14.771
+LCS length:442
+697,8.595
+LCS length:442
+698,6.663
+LCS length:443
+699,6.97
+LCS length:444
+700,14.139
+LCS length:444
+701,7.433
+LCS length:445
+702,6.591
+LCS length:446
+703,6.371
+LCS length:447
+704,6.422
+LCS length:448
+705,6.462
+LCS length:448
+706,6.422
+LCS length:449
+707,6.692
+LCS length:449
+708,6.371
+LCS length:450
+709,6.442
+LCS length:451
+710,6.422
+LCS length:452
+711,6.423
+LCS length:452
+712,6.581
+LCS length:453
+713,6.477
+LCS length:454
+714,6.789
+LCS length:454
+715,6.513
+LCS length:455
+716,6.69
+LCS length:456
+717,6.649
+LCS length:457
+718,6.569
+LCS length:457
+719,6.87
+LCS length:458
+720,6.612
+LCS length:458
+721,6.694
+LCS length:459
+722,6.639
+LCS length:460
+723,6.678
+LCS length:461
+724,6.679
+LCS length:461
+725,6.683
+LCS length:461
+726,6.856
+LCS length:462
+727,6.729
+LCS length:462
+728,6.859
+LCS length:463
+729,6.751
+LCS length:464
+730,7.109
+LCS length:465
+731,6.821
+LCS length:465
+732,6.803
+LCS length:466
+733,7.269
+LCS length:467
+734,7.105
+LCS length:468
+735,7.068
+LCS length:468
+736,7.032
+LCS length:469
+737,7.241
+LCS length:470
+738,6.945
+LCS length:471
+739,6.964
+LCS length:471
+740,6.964
+LCS length:472
+741,7.193
+LCS length:473
+742,7.097
+LCS length:474
+743,7.024
+LCS length:475
+744,7.336
+LCS length:476
+745,7.055
+LCS length:476
+746,7.416
+LCS length:477
+747,7.096
+LCS length:478
+748,7.423
+LCS length:479
+749,7.147
+LCS length:480
+750,7.203
+LCS length:480
+751,7.176
+LCS length:481
+752,7.213
+LCS length:481
+753,7.212
+LCS length:482
+754,7.263
+LCS length:483
+755,7.259
+LCS length:484
+756,7.361
+LCS length:485
+757,7.318
+LCS length:485
+758,7.317
+LCS length:486
+759,7.691
+LCS length:486
+760,7.365
+LCS length:486
+761,7.66
+LCS length:487
+762,7.389
+LCS length:488
+763,7.757
+LCS length:488
+764,7.425
+LCS length:489
+765,8.089
+LCS length:489
+766,7.472
+LCS length:490
+767,9.69
+LCS length:491
+768,16.474
+LCS length:491
+769,8.488
+LCS length:492
+770,7.561
+LCS length:493
+771,7.67
+LCS length:493
+772,7.819
+LCS length:494
+773,7.668
+LCS length:495
+774,19.06
+LCS length:495
+775,9.109
+LCS length:495
+776,7.806
+LCS length:496
+777,7.697
+LCS length:497
+778,7.985
+LCS length:497
+779,7.889
+LCS length:498
+780,8.228
+LCS length:499
+781,8.199
+LCS length:500
+782,8.116
+LCS length:501
+783,8.174
+LCS length:501
+784,8.043
+LCS length:502
+785,7.868
+LCS length:503
+786,8.438
+LCS length:504
+787,7.93
+LCS length:505
+788,8.29
+LCS length:505
+789,7.938
+LCS length:506
+790,8.086
+LCS length:506
+791,7.992
+LCS length:506
+792,8.292
+LCS length:507
+793,8.194
+LCS length:508
+794,8.395
+LCS length:509
+795,8.061
+LCS length:509
+796,8.67
+LCS length:509
+797,8.645
+LCS length:510
+798,8.579
+LCS length:511
+799,8.251
+LCS length:511
+800,8.294
+LCS length:512
+Enter desired string length for recursive version: 
+1,0.001
+LCS Length:1
+2,0
+LCS Length:2
+3,0
+LCS Length:3
+4,0.001
+LCS Length:3
+5,0.002
+LCS Length:4
+6,0.002
+LCS Length:5
+7,0.013
+LCS Length:5
+8,0.049
+LCS Length:5
+9,0.142
+LCS Length:6
+10,0.318
+LCS Length:7
+11,0.318
+LCS Length:8
+12,0.317
+LCS Length:9
+13,2.929
+LCS Length:9
+14,3.046
+LCS Length:10
+15,14.479
+LCS Length:10
+16,177.958
+LCS Length:10
+17,792.329
+LCS Length:10
+18,2920.34
+LCS Length:10
+19,6725.55
+LCS Length:11
+20,17094.7
+LCS Length:11
